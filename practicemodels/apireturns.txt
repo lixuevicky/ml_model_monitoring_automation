@@ -1,0 +1,10 @@
+{
+  "Predictions": "[0, 1, 1, 1, 1]",
+  "Scoring": "0.5714285714285714",
+  "Stats": "{\n  \"Statistics\": \"[['medians: ', lastmonth_activity      73.0\\nlastyear_activity      955.0\\nnumber_of_employees     14.0\\nexited                   1.0\\ndtype: float64], ['means: ', lastmonth_activity      165.653846\\nlastyear_activity      1502.923077\\nnumber_of_employees      26.884615\\nexited                    0.576923\\ndtype: float64], ['stds: ', lastmonth_activity      284.033229\\nlastyear_activity      2192.644958\\nnumber_of_employees      31.353886\\nexited                    0.503831\\ndtype: float64]]\"\n}\n",
+  "Diagnostics": {
+    "dependencies": "b'Package      Version Latest     Type\\n------------ ------- ---------- -----\\nclick        7.1.2   8.1.8      wheel\\ncycler       0.10.0  0.12.1     wheel\\nFlask        1.1.2   3.1.1      wheel\\ngunicorn     20.0.4  23.0.0     wheel\\nitsdangerous 1.1.0   2.2.0      wheel\\nJinja2       2.11.3  3.1.6      wheel\\nkiwisolver   1.3.1   1.4.7      wheel\\nMarkupSafe   1.1.1   3.0.2      wheel\\nnumpy        1.26.4  2.0.2      wheel\\npyparsing    2.4.7   3.2.3      wheel\\npytz         2021.1  2025.2     wheel\\nrequests     2.32.3  2.32.4     wheel\\nseaborn      0.11.1  0.13.2     wheel\\nsix          1.15.0  1.17.0     wheel\\nsklearn      0.0     0.0.post12 sdist\\nWerkzeug     1.0.1   3.1.3      wheel\\n'",
+    "missing": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",
+    "timing": "[0.48803154200000165, 0.4162415000000017]"
+  }
+}

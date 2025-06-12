@@ -1,0 +1,1 @@
+*/10 * * * * cd /Users/xue/Documents/starter-file && python fullprocess.py
